@@ -5,8 +5,5 @@ Experimenting Recommendation on books on goodreads dataset from the following pa
 
 *2. "Fine-Grained Spoiler Detection from Large-Scale Review Corpora", in ACL'19*
 
-**1. To Download dataset do the following:**
-
-    a) pip install gdown
-
-    b) gdown 'https://drive.google.com/uc?id=1H6xUV48D5sa2uSF_BusW-IBJ7PCQZTS1'
+**1. To download and interact with the dataset follow the following github link:**
+    a) https://github.com/MengtingWan/goodreads
